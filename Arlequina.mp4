@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8">
+    <tittle>Vídeos</tittle>
+</head>    
+<body>
+    <video id="video" width="700px" control autoplay loop muted>
+        <source src="Arlequina.mp4" type="video/mp4"></video>
+</body>
+</html>
